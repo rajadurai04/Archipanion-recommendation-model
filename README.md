@@ -1,7 +1,7 @@
 # Nexus
 Making intelligent guide to architecture
 
-#tech stack
+# tech stack
 Python with tensorflow(Machine Learning)
 Sklearn with python(The Working prototype of the Recommendation model
 Html , CSS with JS (front-end web dev)
