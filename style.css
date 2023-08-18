@@ -150,7 +150,8 @@ background: linear-gradient(to bottom, #004e92, #000428); /* W3C, IE 10+/ Edge, 
 #page4>h3{
     margin-left: 15vw;
     margin-bottom: 2vw;
-    font-weight: 100;
+    font-size:300%;
+    font-weight: 600;
     color: #fff;
 }
 #page4>h1{
@@ -187,8 +188,9 @@ background: linear-gradient(to bottom, #004e92, #000428); /* W3C, IE 10+/ Edge, 
 }
 #page6>h3{
     margin-left: 15vw;
-    font-weight: 100;
+    font-weight: 600;
     color: #fff;
+    font-size:300%;
     margin-bottom: 2vw;
 }
 #page6>h1{
