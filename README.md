@@ -1,6 +1,12 @@
 # Nexus
 Making intelligent guide to architecture
 
+#tech stack
+Python with tensorflow(Machine Learning)
+Sklearn with python(The Working prototype of the Recommendation model
+Html , CSS with JS (front-end web dev)
+backend integrated the working website with ml algorithm
+
 ** 10.30 AM [Hour 1]
 One hour in, we are deciding the structure of the idea defining its parameters and requirements, Initiating the team discussion.
 
