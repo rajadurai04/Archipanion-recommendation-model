@@ -18,3 +18,6 @@ Having troble itegrating the Machine learning code with our Streamlit Web applic
 
 **1.30
 7 hours of debugging a bug in the integration, finally its over now!!!
+
+**2:30 
+Front end designing part for the Home Page was done.
