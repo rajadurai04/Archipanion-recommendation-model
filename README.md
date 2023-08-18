@@ -6,3 +6,6 @@ One hour in, we are deciding the structure of the idea defining its parameters a
 
 # 12.30 AM [Hour 2]
 Completed planning the idea and the structure of it.Work has been splited among the team members. 
+
+# 02.30 AM [Hour 3]
+Started working on designing the front end and structuring the backend as well.
