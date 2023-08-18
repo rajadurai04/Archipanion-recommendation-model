@@ -15,3 +15,6 @@ finished our ML models, builts the early version of the website
 
 ** 9.20
 Having troble itegrating the Machine learning code with our Streamlit Web application.
+
+**1.30
+7 hours of debugging a bug in the integration, finally its over now!!!
