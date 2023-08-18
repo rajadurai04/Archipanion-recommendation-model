@@ -21,3 +21,6 @@ Having troble itegrating the Machine learning code with our Streamlit Web applic
 
 **2:30 
 Front end designing part for the Home Page was done.
+
+**4.00
+We did it, completed the evaluation now, I hope we are done for today!
