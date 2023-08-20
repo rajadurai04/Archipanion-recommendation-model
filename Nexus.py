@@ -5,8 +5,15 @@ import pandas as pd
 import streamlit as st
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Load the dataset and preprocess it
-df = pd.read_csv("Book1.csv")
+# Get the absolute path to the directory containing this script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Construct the absolute path to Book1.csv
+csv_file_path = os.path.join(script_dir, "Book1.csv")
+
+# Load the CSV file
+df = pd.read_csv(csv_file_path)
+
 
 columns_to_clean = ["Product Name", "Domain"]
 for column in columns_to_clean:
