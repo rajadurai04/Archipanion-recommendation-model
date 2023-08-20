@@ -1,0 +1,50 @@
+Product Id,Product Name,Domain,Price,Energy-efficient score,User Rating,Learning Difficulity,Sustainable-score ,Features,Additional benefits,Compatibility,App available,Multi-user suppport,Salary support
+1,Design Pro,Residential,$345,Y,4.6,Easy,Y,"3D Modeling, Material Visualization, Rendering",Collabration,"Windows,Linux,Mac Os",Y,Y,Y
+2,Urban Vision,Urban,$234,Y,4.4,Moderate,Y,"Urban Planning Tools, Data Visualization",GIS Integeration,"Windows,Linux,Mac Os",N,N,Y
+3,Residential Pro,Residential,$320,Y,4.5,Easy,Y,"3D Modeling, Material Visualization, Rendering",Collabration,"Windows,Linux,Mac Os",Y,Y,Y
+4,Market.AI,Commercial,$300,Y,4.7,Moderate,Y,Commercial Design,AI Driven smart decisions,"Windows,Linux,Mac Os",N,Y,Y
+5,Finch 3d,Commercial,$280,Y,4.8,Easy,Y,Commercial Design,AI Driven smart decisions,"Windows,Linux,Mac Os",N,Y,Y
+6,HomePlanner,Interior,$123,N,4.3,Easy,N,Interior Tool,Real time Rendering,"Andriod,Windows",Y,Y,Y
+7,RoomPlanner,Interior,$145,N,4.4,Easy,N,Interior Tool,Real time Rendering,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+8,Planner5d,Interior,$156,N,4.6,Easy,N,Interior Tool,Real time Rendering,"Andriod,Windows",Y,Y,N
+9,Coohom,Interior,$200,N,3.8,Moderate,N,Interior Tool,Real time Rendering,"Andriod,Windows",Y,N,N
+10,AutoCad 3d,Urban,$320,Y,4.5,Moderate,Y,"Urban Planning Tools, Data Visualization",GIS Integeration,"Windows,Linux,Mac Os",N,Y,N
+11,Spacemakers,Commercial,$340,Y,4.5,Difficult,Y,Commercial Design,N,"Windows,Linux,Mac Os",N,Y,N
+12,Adobe Firefly,Interior,$323,N,4.6,Moderate,Y,Interior Tool,GIS Integeration,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+13,Hypar,Commercial,$310,Y,4.3,Easy,N,Commercial Design,GIS Integeration,Windows,N,Y,Y
+14,Interior AI,Interior,$175,N,4.3,Moderate,N,Interior Tool,N,Windows,N,Y,N
+15,Cove Tool,Commercial,$360,N,4.5,Easy,Y,Commercial Design,N,"Windows,Linux,Mac Os",Y,Y,Y
+16,Testfit,Design Insipiration,$350,Y,4.7,Moderate,Y,Design inspiration ,N,"Windows,Linux,Mac Os",N,N,N
+17,Archistar,Design Insipiration,$123,N,4.3,Easy,N,Design inspiration ,N,Windows,N,Y,Y
+18,Midjourney,Design Insipiration,$210,N,4.6,Easy,N,Design inspiration ,Free daily arts,"Andriod,Windows,Ios,MacOs",Y,N,N
+19,Dall -E,Design Insipiration,$150,N,4.4,Easy,N,Design inspiration ,Free daily arts,"Andriod,Windows,Ios,MacOs",Y,N,Y
+20,Archivision,Design Insipiration,$267,N,4.6,Moderate,N,Design inspiration ,Free daily arts,"Andriod,Windows,Ios,MacOs",Y,Y,N
+21,Sidewalklabs,Landscape Navigator,$210,Y,4.5,Moderate,Y,Landscape,Smart Landscape enhancer,"Windows,Linux,Mac Os",N,N,Y
+22,Digital Blue Foam,Landscape Navigator,$230,N,4.3,Moderate,N,Landscape,Smart Landscape enhancer,"Windows,Linux,Mac Os",N,Y,N
+23,Smart Draw,Urban,$321,Y,4.1,Difficult,Y,"Urban Planning Tools, Data Visualization",N,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+24,Home by me,Design Insipiration,$175,N,4.5,Easy,N,Design inspiration ,N,"Windows,Linux,Mac Os",N,N,Y
+25,Havenly,Landscape Navigator,$240,N,4.2,Difficult,Y,Landscape,N,"Windows,Linux,Mac Os",N,N,Y
+26,Hutch,Landscape Navigator,$219,Y,4.5,Difficult,Y,Landscape,Smart Landscape enhancer,"Windows,Linux,Mac Os",N,Y,Y
+27,RoomGpt,Interior,$276,Y,4.7,Easy,Y,Interior Tool,AI Driven smart decisions,"Andriod,Windows,Ios,MacOs",Y,Y,N
+28,Interiore,Interior,$256,Y,4.7,Easy,Y,Interior Tool,AI Driven smart decisions,"Andriod,Windows,Ios,MacOs",Y,Y,N
+29,Eco-star,Sustainable,$320,Y,4.6,Difficult,Y,Sustainable solutions,Detailed insights on attaining suistainability,"Andriod,Windows,Ios,MacOs",Y,Y,N
+30,Build Master,Sustainable,$290,Y,4.7,Difficult,Y,Sustainable solutions,Detailed insights on attaining suistainability,"Andriod,Windows,Ios,MacOs",Y,N,N
+31,Eco-companion,Sustainable,$285,Y,4.2,Easy,Y,Sustainable solutions,N,"Windows,Linux,Mac Os",N,Y,N
+31,Master AI,Commercial,$300,Y,4.3,Easy,Y,Commercial Design,N,"Windows,Linux,Mac Os",N,Y,N
+33,Archident,Urban,$300,Y,4.5,Moderate,Y,"Urban Planning Tools, Data Visualization",Real time Rendering,"Windows,Linux,Mac Os",N,Y,Y
+34,Resident AI,Residential,$410,Y,4.5,Moderate,Y,Residential Design,Real time Rendering,"Windows,Linux,Mac Os",N,Y,Y
+35,Com AI,Commercial,$286,Y,4.6,Difficult,Y,Commercial Design,N,"Windows,Linux,Mac Os",N,Y,Y
+36,Suistanbility AI,Sustainable,$320,Y,4.7,Difficult,Y,Sustainable Design,Detailed insights on attaining suistainability,"Windows,Linux,Mac Os",N,Y,Y
+37,Revit,Urban,$340,N,4.5,Difficult,N,"Urban Planning Tools, Data Visualization",Urban planner,"Windows,Linux,Mac Os",N,Y,Y
+38,Archicad,Interior,$250,N,4.3,Easy,Y,"Interior Planning Tools, Data Visualization",Real time Rendering,"Andriod,Windows,Ios,MacOs",N,Y,Y
+39,SketchUp,Interior,$290,N,4.6,Easy,N,"Interior Planniyg Tools, Data Visualizatioy",Real time Rendering,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+40,Rhino,Urban,$267,Y,4.5,Easy,Y,"Urban Planning Tools, Data Visualization",Urban planner,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+41,RoomSketcher,Interior,$278,N,4.4,Moderate,N,"Interior Planning Tools, Data Visualization",Real time Rendering,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+42,FreeCad,Urban,$320,Y,4.4,Moderate,Y,"Urban Planning Tools, Data Visualization",Urban planner,"Andriod,Windows,Ios,MacOs",Y,N,Y
+43,Solidworks,Productivity,$189,N,4.7,Moderate,Y,"Productivity Planning Tools, Data Visualization",Smart Productivity,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+44,Archicaf,Productivity,$167,Y,3.8,Moderate,Y,"Productivity Planning Tools, Data Visualization",N,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+45,3ds max,Design Insipiration,$267,N,4.6,Moderate,Y,Design Insipiration solutions,N,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+46,Homify,Design Insipiration,$278,N,4.5,Difficult,Y,Design Insipiration solutions,N,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+47,Chief Architect,Productivity,$176,N,4.6,Difficult,N,Productivity solutions,N,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+48,Corel CAD,Design Insipiration,$230,N,4.8,Moderate,N,Design Insipiration solutions,Smart Design Inspiration,"Andriod,Windows,Ios,MacOs",Y,Y,Y
+49,Grasshooper,Productivity,$189,N,4.2,Moderate,N,Productivity solutions,Smart Productivity,"Andriod,Windows,Ios,MacOs",Y,Y,Y
