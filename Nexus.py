@@ -1,4 +1,4 @@
-pip install scikit-learn
+
 
 
 import numpy as np
