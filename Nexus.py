@@ -53,7 +53,7 @@ def get_domain_choice():
 
 
 def get_price_range():
-    price_range_input = st.text_input("Enter Price Range (e.g., $250-$300):")
+    price_range_input = st.text_input("Enter Price Range Within 350 taken in dollars (e.g., $250-$300):")
     price_range = price_range_input.split("-")
 
     try:
