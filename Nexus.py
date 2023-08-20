@@ -57,8 +57,8 @@ def get_price_range():
     price_range = price_range_input.split("-")
 
     try:
-        min_price = int(price_range[0].replace("$", "").strip())
-        max_price = int(price_range[1].replace("$", "").strip())
+        min_price = int(price_range[0].replace.strip())
+        max_price = int(price_range[1].replace.strip())
         random_price = (max_price + min_price) // 2
         return round(random_price, 2)
     except ValueError:
