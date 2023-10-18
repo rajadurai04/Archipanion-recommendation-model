@@ -129,7 +129,7 @@ def main():
 
     st.title("Product Recommendation System")
 
-    st.sidebar.header("NEXUS AI")
+    st.sidebar.header("Archipanion")
     user_input = get_user_input()
     st.sidebar.subheader("User Input:")
     st.sidebar.write(user_input)
